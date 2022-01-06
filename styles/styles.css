@@ -11,15 +11,12 @@
 
 body{
     background-image: linear-gradient(
-        rgba(0, 0, 0, 0.781),
+        rgba(0, 0, 0, 0.363),
         rgba(0,0,0,0.6) ) ,
-        url('../img/backgroundBody.jpg');
+        url('../img/wallpapersden.com_new-the-batman-2021_1920x2611.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
-       
-        
-  
 }
 
 .header-container{
@@ -51,7 +48,6 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 60px;
-    
 }
 
  #BuscarFilmes input{
@@ -61,8 +57,6 @@ body{
      margin-top: -33px;
      border-radius: 4px;
      border: none;
-     
-
  }
 
  .header-container h1{
@@ -72,23 +66,16 @@ body{
  }
 
  .filmes{
-        
         margin-top: 60px;
         margin-left: 90px;
         border-radius: 6px;
-        
-        
-        
-        
  }
 
  #main{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-   
  }
-
 
  .filmes img{
     display: flex;
@@ -96,7 +83,6 @@ body{
     margin-left: -70px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
-    
 }
 
 .conteudo{
@@ -110,15 +96,14 @@ body{
 }
 
 .conteudo h3{
-    
-    
+    text-align: center;
     font-size: 15px;
     padding: 10px;
     color: white;
-    max-width: 200px;
+    max-width: 250px;
 }
 
-.info span{
+/*.info span{
     color: white;
    display: flex;
     margin-left: 180px;
@@ -127,8 +112,7 @@ body{
     height: 50px;
     padding: 12px;
     border-radius: 200px;
-   
-}
+}*/
 
 footer{
     background-color: rgb(70, 69, 71);

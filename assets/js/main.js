@@ -31,9 +31,6 @@ function mostrarFilmes(data){
             <!--<div class="info">
                  <span>${vote_average}</span>
             </div>-->
-
-           
-
         </div>
        `
 
