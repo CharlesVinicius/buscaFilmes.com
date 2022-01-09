@@ -67,7 +67,7 @@ body{
 
  .filmes{
         margin-top: 60px;
-        margin-left: 90px;
+      padding: 10px;
         border-radius: 6px;
  }
 
@@ -78,9 +78,7 @@ body{
  }
 
  .filmes img{
-    display: flex;
     width: 280px;
-    margin-left: -70px;
     border-top-left-radius: 6px;
     border-top-right-radius: 6px;
 }
@@ -89,8 +87,8 @@ body{
     background-color: rgb(70, 69, 71);
     height: 70px;
     width: 280px;
+    margin-top: -6px;
     justify-content: center;
-    margin-left: -70px;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
 }
