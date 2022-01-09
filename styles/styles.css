@@ -26,24 +26,6 @@ body{
     padding: 40px;
 }
 
-/*.header-container ul{
-    display: flex;
-    flex-direction: row;
-    
-    justify-content: center;
-    margin-right: 340px;
-    
-    
-    
-}
-
-.header-container li a{
-    margin-left: 60px;
-    color: white;
-    
-    
-}*/
-
 .header-container #BuscarFilmes{
     display: flex;
     justify-content: center;
@@ -66,9 +48,9 @@ body{
  }
 
  .filmes{
-        margin-top: 60px;
-      padding: 10px;
-        border-radius: 6px;
+    margin-top: 60px;
+    padding: 10px;
+    border-radius: 6px;
  }
 
  #main{
@@ -100,17 +82,6 @@ body{
     color: white;
     max-width: 250px;
 }
-
-/*.info span{
-    color: white;
-   display: flex;
-    margin-left: 180px;
-    background-color: aqua;
-    width: 50px;
-    height: 50px;
-    padding: 12px;
-    border-radius: 200px;
-}*/
 
 footer{
     background-color: rgb(70, 69, 71);
